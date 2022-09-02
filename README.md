@@ -18,9 +18,9 @@ I am a second year MSPH student in GDEC. My background is mostly in laboratory s
 ## Research Interests
 I am interested in infectious disease, particularly neglected tropical diseases. I have become very keen on monitoring and evaluation of health intervention programs related to these diseases. These are often conditions which have fairly straightforward preventative or treatment interventions, however are not ideally implemented. This is a gap which I hope to help address throughout my career.
 
-Below is a website for World Chaga's Day. 
-Which is a campaign to raise awareness of one such disease
-https://www.who.int/campaigns/world-chagas-disease-day
+Below is an article about alpacas, which may be my new favorite animal after living in Peru. 
+https://www.treehugger.com/things-you-didnt-know-about-alpacas-4864274
+
 
 ## Learning Goals 
 In this class I hope to become more proficient at using statistical programs to generate useful and visually appealing reports. 
